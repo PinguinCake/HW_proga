@@ -1,0 +1,48 @@
+июн. 09, 2025 7:01:20 PM GameTests testBotMovesTowardCastle
+INFO: testBotMovesTowardCastle прошёл
+июн. 09, 2025 7:01:20 PM GameTests testHeroAttackReducesEnemyHP
+INFO: testHeroAttackReducesEnemyHP прошёл
+июн. 09, 2025 7:01:20 PM GameTests testHeroMovesWithinSpeedLimit
+INFO: testHeroMovesWithinSpeedLimit прошёл
+июн. 09, 2025 7:01:20 PM GameTests testHeroHealthReducesAfterAttack
+INFO: testHeroHealthReducesAfterAttack прошёл
+июн. 09, 2025 7:01:20 PM GameTests testBotBuildsStructureRandomly
+INFO: testBotBuildsStructureRandomly прошёл
+июн. 09, 2025 7:01:20 PM GameTests testBattleEndsWhenAllUnitsDead
+INFO: testBattleEndsWhenAllUnitsDead прошёл
+июн. 09, 2025 7:01:20 PM GameTests testArmyLimitBlocksExtraUnits
+INFO: testArmyLimitBlocksExtraUnits прошёл
+июн. 09, 2025 7:01:20 PM GameTests testCastleCellStoresOwner
+INFO: testCastleCellStoresOwner прошёл
+июн. 09, 2025 7:01:20 PM GameTests testStableIncreasesSpeed
+INFO: testStableIncreasesSpeed прошёл
+июн. 09, 2025 7:01:20 PM GameTests testHeroCannotMoveTooFar
+INFO: testHeroCannotMoveTooFar прошёл
+июн. 09, 2025 7:01:20 PM GameTests testVictoryByHeroDefeat
+INFO: testVictoryByHeroDefeat прошёл
+июн. 09, 2025 7:01:20 PM GameTests testGoldScatteredCorrectly
+INFO: testGoldScatteredCorrectly прошёл
+июн. 09, 2025 7:01:20 PM GameTests testRoadCellIsRecognized
+INFO: testRoadCellIsRecognized прошёл
+июн. 09, 2025 7:01:20 PM GameTests testBuyRandomUnitViaReflection
+INFO: testBuyRandomUnitViaReflection прошёл
+июн. 09, 2025 7:01:20 PM GameTests testAccessPrivateMethodReflectively
+INFO: testAccessPrivateMethodReflectively прошёл (метод не доступен)
+июн. 09, 2025 7:01:20 PM GameTests testWatchTowerBoostsUnitsInBattle
+INFO: testWatchTowerBoostsUnitsInBattle прошёл
+июн. 09, 2025 7:01:20 PM GameTests testUnitDiesWhenHealthZero
+INFO: testUnitDiesWhenHealthZero прошёл
+июн. 09, 2025 7:01:20 PM GameTests testHeroCannotCollectGoldTwiceFromSameCell
+INFO: testHeroCannotCollectGoldTwiceFromSameCell прошёл
+июн. 09, 2025 7:01:20 PM GameTests testMapEditorSetsGoldCorrectly
+INFO: testMapEditorSetsGoldCorrectly прошёл
+июн. 09, 2025 7:01:20 PM GameTests testHeroStartsWithUnit
+INFO: testHeroStartsWithUnit прошёл
+июн. 09, 2025 7:01:20 PM GameTests testTavernIncreasesArmyLimit
+INFO: testTavernIncreasesArmyLimit прошёл
+июн. 09, 2025 7:01:20 PM GameTests testDuplicateBuildingsStillApplyEffectOnce
+INFO: testDuplicateBuildingsStillApplyEffectOnce прошёл
+июн. 09, 2025 7:01:20 PM GameTests testHeroBuildFailsOutsideCastle
+INFO: testHeroBuildFailsOutsideCastle прошёл
+июн. 10, 2025 11:33:01 AM GameTests testBuyRandomUnitViaReflection
+INFO: testBuyRandomUnitViaReflection прошёл
