@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-ФИО: Гуляева Юлия Витальевна
+FIO: Гуляева Юлия Витальевна
 
-Группа: ИУ3-41Б
+GROUP: ИУ3-41Б
 
-Почта: u.gulyaeva24@gmail.com
+email: u.gulyaeva24@gmail.com
 
 ## Ссылки на репозитории
 
-1. [Ссылка на репозиторий из "Задания 2" ](https://github.com/PinguinCake/ToP_2025)
+1. [Ссылка на репозиторий из "Задания 2" ](https://github.com/PinguinCake/tp_task2)
 2. [Ссылка на репозиторий из "Задания 3"](https://github.com/PinguinCake/HW_proga)
